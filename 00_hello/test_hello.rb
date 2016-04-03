@@ -1,5 +1,5 @@
-require './test_helper'
 # You should be in the folder 00_hello on the command line,
+require './test_helper'
 # you should have already entered
 # and you should be running this problem's tests by entering
 # $ rake
